@@ -1,0 +1,3 @@
+model_checkpoint_path: "bidirectional_lstm.ckpt-6800"
+all_model_checkpoint_paths: "bidirectional_lstm.ckpt-6700"
+all_model_checkpoint_paths: "bidirectional_lstm.ckpt-6800"
